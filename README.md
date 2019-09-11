@@ -9,3 +9,5 @@ npm install
 
 Debemos de omitir estos archivos y carpetas
 logs
+
+Modificaciones en readme 
