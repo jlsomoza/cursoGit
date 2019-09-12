@@ -10,4 +10,4 @@ npm install
 Debemos de omitir estos archivos y carpetas
 logs
 
-Modificaciones en readme aztualizadas
+Modificaciones en readme aztualizadas a fecha actual
